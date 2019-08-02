@@ -1,1 +1,1 @@
-## Download the zip and install it just like a reguler wordpress theme you install.
+## Download the zip and install it just like a regular wordpress theme you install.
