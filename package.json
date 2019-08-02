@@ -1,0 +1,11 @@
+{
+  "name": "headless-cms-wordpress-theme-master",
+  "version": "1.0.0",
+  "description": "A starter theme for headless wordpress",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ziaur Abdirahman",
+  "license": "ISC"
+}
